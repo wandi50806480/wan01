@@ -8,6 +8,7 @@ public class Demo01 {
         System.out.println("嘿诶嘿嘿");
         System.out.println("嘿诶嘿嘿");
         System.out.println("嘿诶嘿嘿");
-
+        int i = 888;
+        String str = "丢雷老谋";
     }
 }
