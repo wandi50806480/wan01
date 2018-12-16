@@ -17,5 +17,16 @@ public class Demo01 {
         System.out.println("你真的是傻");
         String tr ="呵呵呵";
         String str1 = "董斯坦";
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("滴滴滴");
+        System.out.println("董斯坦");
+        System.out.println("董斯坦");
+        System.out.println("董斯坦");
+        System.out.println("董斯坦");
     }
 }
