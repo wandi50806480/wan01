@@ -12,5 +12,6 @@ public class Demo01 {
         String str = "丢雷老谋";
         String s = "你妹的";
         String tr ="呵呵呵";
+        String str1 = "董斯坦";
     }
 }
