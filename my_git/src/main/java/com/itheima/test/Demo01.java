@@ -11,5 +11,6 @@ public class Demo01 {
         int i = 888;
         String str = "丢雷老谋";
         String s = "你妹的";
+        String tr ="呵呵呵";
     }
 }
