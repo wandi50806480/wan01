@@ -17,5 +17,11 @@ public class Demo01 {
         System.out.println("你真的是傻");
         String tr ="呵呵呵";
         String str1 = "董斯坦";
+        System.out.println("我草你妹");
+        System.out.println("丢雷老母");
+        System.out.println("丢雷老母");
+        System.out.println("丢雷老母");
+        System.out.println("丢雷老母");
+        System.out.println("丢雷老母");
     }
 }
