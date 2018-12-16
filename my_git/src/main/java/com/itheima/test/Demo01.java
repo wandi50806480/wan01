@@ -11,6 +11,10 @@ public class Demo01 {
         int i = 888;
         String str = "丢雷老谋";
         String s = "你妹的";
+        System.out.println("你真的是傻");
+        System.out.println("你真的是傻");
+        System.out.println("你真的是傻");
+        System.out.println("你真的是傻");
         String tr ="呵呵呵";
         String str1 = "董斯坦";
     }
